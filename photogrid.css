@@ -3,6 +3,11 @@ img{
     float: left;
     margin:1.66%
 }
+
+img:hover{
+transform:scale(1.2);
+}
+
 p{
     font-family: Kurale;
     margin-left: 1.66%;
